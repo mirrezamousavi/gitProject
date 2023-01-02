@@ -4,7 +4,9 @@ body{
 }
 h1{
     font-size:30px;
+    color:green;
 }
 P{
     font-size:20px;
+    color:blue;
 }
